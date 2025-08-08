@@ -1,6 +1,6 @@
 Menu Maker by Qwenta
 Mission
-Ce projet s’inscrit dans le cadre du Projet 7 du parcours Intégrateur Web chez OpenClassrooms.
+Ce projet s’inscrit dans le cadre du Projet 11 du parcours Intégrateur Web chez OpenClassrooms.
 L’objectif est de planifier le développement d’un site web appelé Menu Maker, destiné aux restaurateurs, afin de leur permettre de créer facilement et rapidement leurs menus personnalisés.
 
 En tant que développeur front-end au sein de l’agence Webgencia, vous êtes chargé de piloter la phase préparatoire du projet en l’absence du Product Owner.
